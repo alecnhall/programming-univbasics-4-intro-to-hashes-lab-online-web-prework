@@ -13,6 +13,7 @@ def pioneer
   pioneer = {
     name: "Grace Hopper"
   }
+  return pioneer
 end
 
 def id_generator
