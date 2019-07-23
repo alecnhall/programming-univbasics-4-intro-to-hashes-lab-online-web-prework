@@ -5,7 +5,7 @@ end
 def my_hash
   hash = {
     band: "The Sidekicks",
-    song: ""
+    song: "DMT"
   }
 end
 
