@@ -4,7 +4,8 @@ end
 
 def my_hash
   hash = {
-    key: value
+    band: "The Sidekicks",
+    song: ""
   }
 end
 
